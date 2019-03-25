@@ -1,0 +1,296 @@
+Package: com.dan.SpringThing
+Name: SpringThing 
+Version: 4.0.4
+Size: 63kb
+Architecture: iphoneos-arm
+Description: A dope respring animation. Trust me. U want this.
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Respring
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//SpringThing.deb
+
+Package: com.dan.Cydia
+Name: Cydia
+Version: 4.0.4
+Size: 1263kb
+Architecture: iphoneos-arm
+Description: Original Cydia Package Manager. The one and only.
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Package Managers
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//Cydia.deb
+
+Package: com.dan.AUPM
+Name: AUPM
+Version: 4.0.4
+Size: 2218kb
+Architecture: iphoneos-arm
+Description: "A Useless Package Manager" up to u to decide how useless this actually is.
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Package Managers
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//AUPM.deb
+
+Package: com.dan.Anemone
+Name: Anemone
+Version: 4.0.4
+Size: 1815kb
+Architecture: iphoneos-arm
+Description: Awesome theming engine. If aren't gonna have this, why even bother jailbreking ur iDevice?
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Themes
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//Anemone.deb
+
+Package: com.dan.IcyInstaller
+Name: Icy Installer
+Version: 4.0.4
+Size: 549kb
+Architecture: iphoneos-arm
+Description: Another package manager, there really are loads of these aren't there?
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Package Managers
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//IcyInstaller.deb
+
+Package: com.dan.Zeppelin
+Name: Zeppelin
+Version: 4.0.4
+Size: 940kb
+Architecture: iphoneos-arm
+Description: Change carrier logo, a must have.
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Tweaks
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//Zeppelin.deb
+
+Package: com.dan.Zeppelicator
+Name: Zeppelicator
+Version: 4.0.4
+Size: 74kb
+Architecture: iphoneos-arm
+Description: Add more images to Zeppelin. Why not? Seriously, get both.
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Tweaks
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//Zeppelicator.deb
+
+Package: com.dan.CyDown
+Name: CyDown
+Version: 4.0.4
+Size: 1060kb
+Architecture: iphoneos-arm
+Description: Download paid cydia tweaks for free. DISCLAIMER : I AM NOT RESPONSIBLE FOR HOW THIS APP IS USED. THIS IS INTENDED TO TRIAL PAID TWEAKS BEFORE BUYING THEM. ;)
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Tweaks
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//Zeppelicator.deb
+
+Package: com.dan.Ultrasound
+Name: Ultrasound
+Version: 4.0.4
+Size: 409kb
+Architecture: iphoneos-arm
+Description: Get that sexy af volume HUD that u deserve
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Tweaks
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//Ultrasound.deb
+
+Package: com.dan.CircleIcons
+Name: CircleIcons
+Version: 4.0.4
+Size: 40kb
+Architecture: iphoneos-arm
+Description: Made dem icons round, boi.
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Themes
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//CircleIcons.deb
+
+Package: com.dan.BetterPowerMenu
+Name: BetterPowerMenu
+Version: 4.0.4
+Size: 40kb
+Architecture: iphoneos-arm
+Description: Waaaaayyy better power menu. Reboot, respring, enter safe mode, and (obviously) shutdown with multiple sliders on the power menu.
+Maintainer: Danyaal <danyaal45@gmail.com>
+Author: Danyaal <danyaal45@gmail.com>
+Section: Tweaks
+MD5sum:111111111111111111111111
+SHA1sum:11111111111111111111111
+SHA256sum:111111111111111111111
+Filename: debs//BetterPowerMenu.deb
+ 
+Package: com.dan.Cylinder
+Version: 404
+Size: 255.488kb
+Architecture: iphoneos-arm
+Description: Change animation for scrolling through home screens!
+Maintainer: IDK <IDK>
+Author: IDK <IDK>
+Section: Springboard
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: Cylinder.deb
+ 
+Package: com.dan.Deezelife
+Version: 404
+Size: 46.238kb
+Architecture: iphoneos-arm
+Description: Modded Version of Deezer. Downloads enabled, Supreme sound unlocked, ect.
+Maintainer: ijulioverne <idk>
+Author: ijuliovere <idk>
+Section: Modded Apps
+MD5sum: Section: Modded Apps
+SHA1sum: Section: Modded Apps
+SHA256sum: 404
+Filename: Deezelife.deb
+ 
+Package: com.dan.iOS 6 Theme
+Version: 404
+Size: 11382.35kb
+Architecture: iphoneos-arm
+Description: iOS 6 theme. Specially for Luca if there isn't one on Anemone :)
+Maintainer: IDK <IDK>
+Author: IDK <IDK>
+Section: Themes
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: iOS 6 Theme.deb
+ 
+Package: com.dan.LowBatteryBanner
+Version: 404
+Size: 4.83kb
+Architecture: iphoneos-arm
+Description: Replace that stupid iOS low battery alert with a low battery banner!
+Maintainer: IDK <IDK>
+Author: IDK <IDK>
+Section: Tweaks
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: LowBatteryBanner.deb
+ 
+Package: com.dan.LowerInstall
+Version: 404
+Size: 39.614kb
+Architecture: iphoneos-arm
+Description: Install apps that require a higher iOS version! 
+Maintainer: IDK <IDK>
+Author: IDK <IDK>
+Section: Tweaks
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: LowerInstall.deb
+ 
+Package: com.dan.ReformX
+Version: 404
+Size: 0.092kb
+Architecture: iphoneos-arm
+Description: Change the size of your home screen icons 
+Maintainer: IDK <IDK>
+Author: IDK <IDK>
+Section: Tweaks
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: ReformX.deb
+ 
+Package: com.dan.Snowboard
+Version: 404
+Size: 425.248kb
+Architecture: iphoneos-arm
+Description: Theming engine. Successor to Winterboard
+Maintainer: IDK <IDK>
+Author: IDK <IDK>
+Section: Themes
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: Snowboard.deb
+ 
+Package: com.dan.Spotilife
+Version: 404
+Size: 82.854kb
+Architecture: iphoneos-arm
+Description: Modded version of Spotify! All premium features unlockde
+Maintainer: ijulioverne <IDK>
+Author: ijulioverne <IDK>
+Section: Modded Apps
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: Spotilife.deb
+ 
+Package: com.dan.MTerminal
+Version: 1.4.5
+Size: 107.204kb
+Architecture: iphoneos-arm
+Description: Terminal for iOS
+Maintainer: IDK <IDK>
+Author: IDK <IDK>
+Section: Apps
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: MTerminal.deb
+ 
+Package: com.dan.OpenSSH
+Version: 404
+Size: 587.678kb
+Architecture: iphoneos-arm
+Description: SSH for iOS
+Maintainer: IDK <IDK>
+Author: IDK <IDK>
+Section: Apps
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: OpenSSH.deb
+ 
+Package: com.dan.RomanKeypad
+Version: 404
+Size: 146.272kb
+Architecture: iphoneos-arm
+Description: Change keypad numbers to roman numerals! 
+Maintainer: qwertyoruiop <>
+Author: qwertyoruiop <>
+Section: Tweaks
+MD5sum: 404
+SHA1sum: 404
+SHA256sum: 404
+Filename: RomanKeypad.deb
