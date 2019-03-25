@@ -4,9 +4,9 @@ Version: 4.0.4
 Size: 63kb
 Architecture: iphoneos-arm
 Description: A dope respring animation. Trust me. U want this.
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
-Section: Respring
+Maintainer: Rhaym <danyaal45@gmail.com>
+Author: Rhaym <danyaal45@gmail.com>
+Section: Tweaks
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
 SHA256sum:111111111111111111111
@@ -17,9 +17,9 @@ Name: Cydia
 Version: 4.0.4
 Size: 1263kb
 Architecture: iphoneos-arm
-Description: Original Cydia Package Manager. The one and only.
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Description: Original Cydia Package Manager. The OLD UI.
+Maintainer: Saurik <danyaal45@gmail.com>
+Author: Saurik <danyaal45@gmail.com>
 Section: Package Managers
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
@@ -32,8 +32,8 @@ Version: 4.0.4
 Size: 2218kb
 Architecture: iphoneos-arm
 Description: "A Useless Package Manager" up to u to decide how useless this actually is.
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Maintainer: Rhaym <danyaal45@gmail.com>
+Author: Rhaym <danyaal45@gmail.com>
 Section: Package Managers
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
@@ -46,8 +46,8 @@ Version: 4.0.4
 Size: 1815kb
 Architecture: iphoneos-arm
 Description: Awesome theming engine. If aren't gonna have this, why even bother jailbreking ur iDevice?
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Maintainer: CoolStar <danyaal45@gmail.com>
+Author: CoolStar <danyaal45@gmail.com>
 Section: Themes
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
@@ -60,8 +60,8 @@ Version: 4.0.4
 Size: 549kb
 Architecture: iphoneos-arm
 Description: Another package manager, there really are loads of these aren't there?
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Maintainer: Rhaym <danyaal45@gmail.com>
+Author: Rhaym <danyaal45@gmail.com>
 Section: Package Managers
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
@@ -74,8 +74,8 @@ Version: 4.0.4
 Size: 940kb
 Architecture: iphoneos-arm
 Description: Change carrier logo, a must have.
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Maintainer: Rhaym <danyaal45@gmail.com>
+Author: Rhaym <danyaal45@gmail.com>
 Section: Tweaks
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
@@ -88,8 +88,8 @@ Version: 4.0.4
 Size: 74kb
 Architecture: iphoneos-arm
 Description: Add more images to Zeppelin. Why not? Seriously, get both.
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Maintainer: Rhaym <danyaal45@gmail.com>
+Author: Rhaym <danyaal45@gmail.com>
 Section: Tweaks
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
@@ -102,9 +102,9 @@ Version: 4.0.4
 Size: 1060kb
 Architecture: iphoneos-arm
 Description: Download paid cydia tweaks for free. DISCLAIMER : I AM NOT RESPONSIBLE FOR HOW THIS APP IS USED. THIS IS INTENDED TO TRIAL PAID TWEAKS BEFORE BUYING THEM. ;)
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
-Section: Tweaks
+Maintainer: ijulioverne <danyaal45@gmail.com>
+Author: ijulioverne <danyaal45@gmail.com>
+Section: VIP-Tweaks
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
 SHA256sum:111111111111111111111
@@ -116,8 +116,8 @@ Version: 4.0.4
 Size: 409kb
 Architecture: iphoneos-arm
 Description: Get that sexy af volume HUD that u deserve
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Maintainer: Rhaym <danyaal45@gmail.com>
+Author: Rhaym <danyaal45@gmail.com>
 Section: Tweaks
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
@@ -130,8 +130,8 @@ Version: 4.0.4
 Size: 40kb
 Architecture: iphoneos-arm
 Description: Made dem icons round, boi.
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Maintainer: Rhaym <danyaal45@gmail.com>
+Author: Rhaym <danyaal45@gmail.com>
 Section: Themes
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
@@ -144,8 +144,8 @@ Version: 4.0.4
 Size: 40kb
 Architecture: iphoneos-arm
 Description: Waaaaayyy better power menu. Reboot, respring, enter safe mode, and (obviously) shutdown with multiple sliders on the power menu.
-Maintainer: Danyaal <danyaal45@gmail.com>
-Author: Danyaal <danyaal45@gmail.com>
+Maintainer: Rhaym <danyaal45@gmail.com>
+Author: Rhaym <danyaal45@gmail.com>
 Section: Tweaks
 MD5sum:111111111111111111111111
 SHA1sum:11111111111111111111111
